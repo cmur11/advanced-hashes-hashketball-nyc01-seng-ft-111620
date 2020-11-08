@@ -335,7 +335,7 @@ def big_shoe_rebounds
                      #  rebounds_shoe_size
                        end
             end
-            #binding.pry
+            binding.pry
       rebounds_shoe_size
         end
    end
